@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego en los labios
+
+This log tracks the cryptographic history and versioning for the song **Fuego en los labios** (fuego-en-los-labios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:19:46.733203 | `v1` | `c6466a3e3a632734c552f1925d2a7492fd0531aecef637d92a6fcfd806f38c80` | `3574c6e571e5643d7f75dc905cca4c4723e7b197afeed8b57d3b577101d0aa20` | `2026-06-17_fuego-en-los-labios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-los-labios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Fuego en los labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-los-labios/) |
+| **Get License** | [Commercial Licensing for Fuego en los labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-los-labios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c6466a3e3a632734c552f1925d2a7492fd0531aecef637d92a6fcfd806f38c80` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
